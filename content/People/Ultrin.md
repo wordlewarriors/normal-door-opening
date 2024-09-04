@@ -1,0 +1,1 @@
+* Some sort of wizard, pop into existence in the [[Shadowfell]]
