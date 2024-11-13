@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "wordlewarriors.github.io/normal-door-opening/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
