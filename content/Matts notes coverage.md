@@ -1,1 +1,7 @@
+---
+title: Matts notes coverage
+draft: false
+tags: []
+---
+
 - Transcribed from the bottom of page 55 ([[2024-01-09]]) up  to the middle of page 63 [[2024-07-09]] - covers all of 2024 from start of Jan to July

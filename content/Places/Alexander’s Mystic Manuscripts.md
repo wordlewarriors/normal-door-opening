@@ -1,3 +1,10 @@
+---
+title: "Alexander\u2019s Mystic Manuscripts"
+draft: false
+tags:
+- Neverwinter
+---
+
 #Neverwinter 
 
 A bookshop in the Protector’s Enclave.

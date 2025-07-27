@@ -1,3 +1,10 @@
+---
+title: Black Claw
+draft: false
+tags:
+- darkone
+---
+
 * Lives in [[Glumgluts Manor]]
 * Is a #darkone
 * Friends with [[Grageon]]

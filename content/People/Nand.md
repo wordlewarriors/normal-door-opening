@@ -1,4 +1,7 @@
 ---
 aliases:
-  - Archmage Nandntiersanon
+- Archmage Nandntiersanon
+title: Nand
+draft: false
+tags: []
 ---

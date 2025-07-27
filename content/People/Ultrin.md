@@ -1,1 +1,7 @@
+---
+title: Ultrin
+draft: false
+tags: []
+---
+
 * Some sort of wizard, pop into existence in the [[Shadowfell]]

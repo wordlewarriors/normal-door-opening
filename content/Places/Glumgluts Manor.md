@@ -1,3 +1,10 @@
+---
+title: Glumgluts Manor
+draft: false
+tags:
+- Shadowfell
+---
+
 #Shadowfell 
 * [[Raven Queen Order]] safe house
 * Has [[Asmodeous]] shrine in basement

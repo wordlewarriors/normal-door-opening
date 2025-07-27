@@ -1,5 +1,8 @@
 ---
 title: Normal Door Opening Force Notes
+draft: false
+tags:
+- Create
 ---
 
 This is the notes for the Normal Door Opening Force DnD group.

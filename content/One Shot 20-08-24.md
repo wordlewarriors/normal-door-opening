@@ -1,3 +1,8 @@
+---
+title: One Shot 20-08-24
+draft: false
+tags: []
+---
 
 - We are called in to see [[Aarlon]], it is late in the day.  
 - [[Thisiman]] and [[Barris]] have taken this call and are informed that the stable of [[Lord Neverember]]’s aunty is haunted, so we’re sent to check it out, at [[Amblecrown Manor]]
@@ -41,4 +46,4 @@
 	- [[Lady Amblecrown]] says she was just trying to do good. She was told by her granddad [[Victor Amblecrown]] that this book would get her out of trouble.
 	- [[Barris]] tells her he is confiscating the book for safe keeping and that we have resolved the problem with the howling. 
 	- [[Barris]] tells her that we will get someone from the [[Neverwinter Academy]] to come and check out the study.
-	- We head towards [[Neverwinter Academy]] fighting undead as we go, to find a wizard to report the book to & come fix the portal. 
+	- We head towards [[Neverwinter Academy]] fighting undead as we go, to find a wizard to report the book to & come fix the portal.

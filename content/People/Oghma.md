@@ -1,2 +1,7 @@
-A neutral god popular of inspiration, invention and bards, popular within Faerun.
+---
+title: Oghma
+draft: false
+tags: []
+---
 
+A neutral god popular of inspiration, invention and bards, popular within Faerun.

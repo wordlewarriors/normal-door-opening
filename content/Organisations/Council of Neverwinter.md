@@ -1,3 +1,9 @@
+---
+title: Council of Neverwinter
+draft: false
+tags: []
+---
+
 The council members that govern [[Neverwinter]]
 
 1. Lord Regent: [[Dagult Neverember]], the head of the city council, responsible for overseeing all affairs within [[Neverwinter]] and making final decisions on matters of governance.

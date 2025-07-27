@@ -1,7 +1,12 @@
 ---
 aliases:
-  - Aarlon Bladeshaper
+- Aarlon Bladeshaper
+title: Aarlon
+draft: false
+tags:
+- Neverwinter
 ---
+
 #Neverwinter 
 
 - A member of the [[Harpers]], based in [[Neverwinter]]. 

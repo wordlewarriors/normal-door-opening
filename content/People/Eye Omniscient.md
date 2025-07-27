@@ -1,3 +1,11 @@
+---
+title: Eye Omniscient
+draft: false
+tags:
+- Neverwinter
+- raven
+---
+
 #raven-queen #Neverwinter
 
 A.K.A. Top Raven Bloke

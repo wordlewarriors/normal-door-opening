@@ -1,4 +1,7 @@
 ---
 aliases:
-  - Veilgard Manor
+- Veilgard Manor
+title: Neverwinter Manor
+draft: false
+tags: []
 ---
