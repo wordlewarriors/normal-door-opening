@@ -1,0 +1,40 @@
+
+- Platoni Nakaza trade spire winter solstice. Gillian Generico. We arrive fashionably late. Outside an elf guard with old neglected cross bow waves us forward, introducing himself as [[Pal-Oell]] 
+	- [[Bill Bawbags]] is a halfling ranger (fay wonderer), here to make friends
+	- Gnorman has gadgets that make music, start a fire, brand company logo
+	- [[Bill Bawbags]] is given a sending stone to contact the guard when we want to check out
+- The foyer is as cavernous as a royal hall, white marble walls, stone desks and twin staircases up to next floor. The room has receptionists, clerks and barrels being taken upstairs. There are guards drinking. A gnome swaggers towards us this is [[Har’ri Ellis]]
+	- “Welcome, who are you” (We introduce ourselves). He sells, buys and negotiates deals. 
+	- [[Bill Bawbags]] asks about the vaults, which are a book well beyond simple adventurers. 
+	- [[Bill Bawbags]] offers to advertise Gnorman’s company, but decide to wait for the rich guys upstairs.
+	- [[Bill Bawbags]] notices that the guards rolling the barrels through lights seem to be wincing. We ask [[Har’ri Ellis]] about this and he tells us not to worry and that “sometime you have to punch a puppy
+- As we go upstrairs we can hear a string band and the sound of glasses clinking. Ahead an elf caterer is dragging a large barrel labelled “Champaign”, [[Har’ri Ellis]] goes to shout at him. Ahead, the drinking turns to shouting as the elf advances on us. The tower’s security shutters slam down, cutting us off from him.
+	- A voice comes over magical loud speakers: “I speak now to the nobles of the city, my name is [[Granz Huber]], I have hostages on the concourse level and anyone that can scry can confirm. If you leave us alone for 1 hour we will release them, otherwise they will all die.”
+- Looking around we spot a glowing blue gem on the wall next to the shutter that come down. [[Bill Bawbags]] uses the sending stone to contact [[Pal-Oell]] and tell him what is happening.
+	- [[Pal-Oell]] tells us the doors are designed to not let us in and we should try jamming a dagger into the door. [[Bill Bawbags]] helps [[Gnorman]] open the door, revealing a scene of carnage. The room has also been shuttered and we can hear guards outside. 
+	- There is no longer natural light coming in, only torches. 
+	- [[Gnorman]] makes a pathway to the door and uses prestitigitation to clean his way. 
+	-  There is a green gem on the door. This connects us to outside. It turns out the door is locked
+	- We search the corpses, find 100GP, 3 sets leather armour and 3 long swords. (We leave most of these)
+	- Checking for traps, [[Bill Bawbags]] spots a green liquid that looks like acid. We open the door and keep casting Prestidigitation to clean acid out of the way as we approach the next door.
+- The concourse floor is a wide space circled by offices. A colossal statue of the company founder dominates the floor and 10 guests are tied to it. 9 of the hosts gates are alive. 1 hangs limp with an arrow in her eye. There is a pool of the green acid around the statue. The bodies of catering staff and other guests are spread around. The walls are slick with blood.
+	- The elf caterer is also present, as is 1 other person. They are at the bottom of the statue looting the bodies in the room and occasionally poking at the hostages. 
+	- On one of the tables are some sending stones. We hear the voice of the bad guy “Tony hurry up with the sausages, we need you at the vault”
+	- [[Bill Bawbags]] pretends to be a vampire and says we’re here to help with the vault. 
+	- As one of the guards dies, some makeup comes off, revealing that they have dark skin.
+	- [[Gnorman]] takes a  dragon tooth necklace
+- [[Bill Bawbags]] tells [[Pal-Oell]] that we have rescued the hostages, but he can’t open the front door until the city guards arrive.
+- One of the hostages tells us that the big bad has the key and a thing to turn to acid harmless.
+	- We are told the bad guys have gone to break into the vault, which is really important that they keep it safe. There a book that a bunch of wizards paid them to keep.
+	- [[Gnorman]] takes some of the green power and is full of energy.
+- Up the stairs is a guards desk, a heavy door, 2 dwarf guards, 3 Drow and a human. The human is full of crossbow bolts and has a name tag “Jorn Machklane” sewn into his underwear. He has a guard ID sigil from far off and a unique magic dagger, “Quippykaiay”
+- We solve a puzzle to open the door. Ahead is a badly chipped and gauged statue of a lion, behind it is another door. 
+	- [[Gnorman]] tries to cast mending on the statue. It moans and reluctantly says we have to answer its riddle, saying we get 5 guesses. 
+	- [[Bill Bawbags]] solves its riddle and asks its name. It says it took the bad guys a while to solve. More than 4 got past the statue. 
+- In the next room is a large black marble pot “qualified accountancy and management personal only beyond this point. Forgotten this key? Prove your accounting credentials by pouring 500ml into this pot, 2 jugs 375, other 625. Then tap this sign”
+	- Beyond the door we can hear people shuffling and scraping around.
+- the door opens into the main vault, piled high with scrolls and outlanding curios. The ceiling 30ft above glows with pale light. There is a hole in the far wall, sizzling where the acid dissolved through it. Drow mercenaries are looting the room and one man is ordering people about, as is [[Har’ri Ellis]]! 
+	- Total 3 Drow, [[Har’ri Ellis]] and [[Granz Huber]].
+	- [[Bill Bawbags]] attempts to charm [[Granz Huber]] and casts charm person.
+- The summoned Modron takes the copy of the book, fails the save, turns evil and vanishes.
+- 
