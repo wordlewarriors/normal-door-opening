@@ -1,6 +1,7 @@
 ---
 aliases:
 - Aarlon Bladeshaper
+- Arlon
 title: Aarlon
 draft: false
 tags:
