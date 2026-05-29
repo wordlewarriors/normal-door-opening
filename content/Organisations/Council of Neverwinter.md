@@ -14,3 +14,21 @@ The council members that govern [[Neverwinter]]
 6. Minister of Infrastructure: [[Thorne Ironhelm]], a skilled engineer and architect, oversees the construction and maintenance of roads, bridges, and other essential infrastructure projects vital to the city's growth and development.
 7. Minister of Arcana: [[Archmage Nandntiersanon]], a wise and powerful wizard, advises on matters of magic, arcane research, and the regulation of spellcasting within the city to ensure the safety of its inhabitants.
 8. Minister of Diplomacy: [[Ambassador Lyra Dawnstar]], a skilled negotiator and diplomat, represents [[Neverwinter]]'s interests in diplomatic relations with neighboring cities, foreign powers, and other influential factions. Her state is unknown as she was riding to [[Waterdeep]] when the shield went up.
+
+<!-- generated: 2026-05-29 -->
+
+## Overview
+
+The Council of Neverwinter is the primary governing body of [[Neverwinter]], consisting of eight members who oversee various governmental functions and departments. The council wields significant authority over the city's resources, infrastructure, and policy decisions. Members hold ministerial positions responsible for different aspects of civic administration, including health, trade, and other critical services.
+
+## Goals & Structure
+
+The council operates as a structured governmental entity with distinct departmental divisions. It allocates funding to major civic projects, including collaborative initiatives like the water purification project between the [[Druids]] and [[Neverwinter Academy]]. The council's primary objectives appear to center on maintaining public welfare, facilitating trade, and addressing public health concerns. Its eight-member structure suggests representation across multiple administrative portfolios.
+
+## Key Members
+
+[[Ivaran Sylhorn]] serves as the Minister for Health on the council and holds official seals and credentials that grant him legitimate standing within the government. [[Amelia Briar]] holds the position of Minister for Trade. Both members represent the council's involvement in essential civic functions.
+
+## Campaign Involvement
+
+[[Aarlon]] has been assigned to conduct surveillance on the council due to suspicions that at least one member may be involved in corruption. The council's funding decisions regarding the water purification project demonstrate their active role in addressing environmental and public health challenges affecting [[Neverwinter]]. The council's legitimacy and authority make them a significant political institution affecting multiple aspects of the campaign's unfolding events.
