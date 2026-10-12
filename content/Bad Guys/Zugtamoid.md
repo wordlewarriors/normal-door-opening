@@ -5,14 +5,14 @@ tags: []
 ---
 
 - The lady of decay. 
-- Wed to the aromycos, so she can see and hear through all the spores, which are everywhere. 
+- Wed to the Araumycos, so she can see and hear through all the spores, which are everywhere. 
 - Her physical manifestation is likely on layer 222 of the Abyss - associated with the [[Kyusse]]
 
 <!-- generated: 2026-05-29 -->
 
 ## Overview
 
-Zugtamoid is a malevolent deity or entity whose true nature remains partially obscured. Its influence extends through corrupted fungal networks, particularly through its grip on [[Araumycos]], the massive fungal entity in the Underdark. The entity appears to operate through infection and corruption rather than direct confrontation, spreading its influence gradually but inexorably. [[The Archdruid]] has identified Zugtamoid's worshippers as operating within [[Neverwinter]], suggesting it maintains active cults or agents in the city above.
+Zugtamoid is a malevolent deity or entity whose true nature remains partially obscured. Its influence extends through corrupted fungal networks, particularly through its grip on [[Araumycos]], the massive fungal entity in the Underdark. The entity appears to operate through infection and corruption rather than direct confrontation, spreading its influence gradually but inexorably. [[Archdruid|The Archdruid]] has identified Zugtamoid's worshippers as operating within [[Neverwinter]], suggesting it maintains active cults or agents in the city above.
 
 ## Threat & Motivations
 
@@ -22,8 +22,8 @@ The entity's motivations appear tied to expansion and corruption rather than des
 
 ## Key Events
 
-The [[Araumycos]] became corrupted through what [[The Archdruid]] describes as a "corrupted marriage"—suggesting Zugtamoid's infection was not forcible initially but entangled through intimate connection. By Session 33, Zugtamoid had achieved complete overtaking of the Araumycos, establishing dominion over the fungal entity and using it as both a puppet and conduit. The resulting fungal spore outbreak directly caused the plague ravaging [[Neverwinter]].
+The [[Araumycos]] became corrupted through what [[Archdruid|The Archdruid]] describes as a "corrupted marriage"—suggesting Zugtamoid's infection was not forcible initially but entangled through intimate connection. By Session 33, Zugtamoid had achieved complete overtaking of the Araumycos, establishing dominion over the fungal entity and using it as both a puppet and conduit. The resulting fungal spore outbreak directly caused the plague ravaging [[Neverwinter]].
 
 ## Connections
 
-Zugtamoid maintains worshippers within [[Neverwinter]] who actively work to perpetuate its influence and the plague. [[The Archdruid]] identifies these cultists as key to understanding the entity's operations in the city. The connection between Zugtamoid and [[Araumycos]] is critical—[[The Archdruid]] theorizes that severing this link could render Zugtamoid vulnerable, suggesting the relationship, while intimate, remains essential to its power.
+Zugtamoid maintains worshippers within [[Neverwinter]] who actively work to perpetuate its influence and the plague. [[Archdruid|The Archdruid]] identifies these cultists as key to understanding the entity's operations in the city. The connection between Zugtamoid and [[Araumycos]] is critical—[[Archdruid|The Archdruid]] theorizes that severing this link could render Zugtamoid vulnerable, suggesting the relationship, while intimate, remains essential to its power.

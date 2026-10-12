@@ -10,13 +10,13 @@ tags: [faction, neverwinter]
 
 ## Overview
 
-House T'sarran is a drow noble house devoted to the worship of [[Kyransalee]], the goddess of undeath. The house operates under a deeply disturbing ideology: they believe male family members achieve their greatest strength in undead form. This conviction drives them to deliberately send male relatives into lethal combat, viewing their deaths not as tragedies but as transformations into their truest potential. The family then raises these fallen men as undead servants, creating a macabre warrior caste bound to house interests.
+House T'sarran is a drow noble house devoted to the worship of [[Kiaransalee]], the goddess of undeath. The house operates under a deeply disturbing ideology: they believe male family members achieve their greatest strength in undead form. This conviction drives them to deliberately send male relatives into lethal combat, viewing their deaths not as tragedies but as transformations into their truest potential. The family then raises these fallen men as undead servants, creating a macabre warrior caste bound to house interests.
 
 The house seal has become a common forgery tool in criminal circles, suggesting either a loss of control over their heraldic authority or complicity in document fraud networks.
 
 ## Goals & Structure
 
-House T'sarran's primary objective centers on building an undead military force composed of their male lineage members. By continuously cycling young men into battle and resurrection, they maintain a growing cadre of powerful undead warriors loyal to house interests. This practice represents their interpretation of [[Kyransalee]]'s teachings and positions them as a military power distinct from traditional drow houses that rely on living armies.
+House T'sarran's primary objective centers on building an undead military force composed of their male lineage members. By continuously cycling young men into battle and resurrection, they maintain a growing cadre of powerful undead warriors loyal to house interests. This practice represents their interpretation of [[Kiaransalee]]'s teachings and positions them as a military power distinct from traditional drow houses that rely on living armies.
 
 The house maintains formal organizational structure with a claimed leadership hierarchy, though the legitimacy of current succession has been compromised. Their operations extend beyond typical noble house activities into broader criminal networks, as evidenced by their seal's use in document forgery.
 

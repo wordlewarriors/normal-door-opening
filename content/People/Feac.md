@@ -8,7 +8,7 @@ tags:
 * Raven Queen contact in the #Shadowfell
 * Shadarkai
 * Deep dark shadows, very shadowy even for the Shadowfell
-* Lives in an old [[Asmodeous]] shrine
+* Lives in an old [[Asmodeus]] shrine
 * Can't contact back to the Prime Material
 * Notes for Prime Material
 

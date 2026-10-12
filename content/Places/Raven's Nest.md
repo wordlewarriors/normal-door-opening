@@ -18,7 +18,7 @@ The warehouse presents a utilitarian structure typical of dock-district commerce
 
 ## Key Events
 
-The facility has been a point of interest during both a [[Plague Investigation]] and subsequent investigations in [[Neverwinter]]. [[Health Minister Ivaran Sylhorn]] was observed making regular visits to Raven's Nest during the plague investigation arc, suggesting he maintained a personal storage unit at the location with contents significant enough to warrant his repeated attention.
+The facility has been a point of interest during both a [[Plague Investigation]] and subsequent investigations in [[Neverwinter]]. [[Ivaran Sylhorn|Health Minister Ivaran Sylhorn]] was observed making regular visits to Raven's Nest during the plague investigation arc, suggesting he maintained a personal storage unit at the location with contents significant enough to warrant his repeated attention.
 
 ## Notable NPCs
 

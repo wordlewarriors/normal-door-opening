@@ -18,8 +18,8 @@ These cult remnants engage in organized crime and deliberate acts of chaos acros
 
 ## Key Events
 
-The cult remnants have escalated their operations to the point where they are stretching city resources dangerously thin. [[Arlon]] and the city guard have been forced into a defensive posture, responding to incidents across multiple districts simultaneously rather than mounting coordinated suppression campaigns. This reactive stance suggests the remnants are either growing bolder or better organized than previously understood, or possibly that their numbers have increased beyond initial estimates.
+The cult remnants have escalated their operations to the point where they are stretching city resources dangerously thin. [[Aarlon]] and the city guard have been forced into a defensive posture, responding to incidents across multiple districts simultaneously rather than mounting coordinated suppression campaigns. This reactive stance suggests the remnants are either growing bolder or better organized than previously understood, or possibly that their numbers have increased beyond initial estimates.
 
 ## Connections
 
-The fragmented nature of these groups means they operate with varying degrees of autonomy, though some coordination appears to occur. Their activities directly impact [[Arlon]]'s ability to maintain order in [[Neverwinter]], creating a strategic challenge requiring either additional military resources, political solutions, or targeted intelligence operations against key leadership figures within individual cells.
+The fragmented nature of these groups means they operate with varying degrees of autonomy, though some coordination appears to occur. Their activities directly impact [[Aarlon]]'s ability to maintain order in [[Neverwinter]], creating a strategic challenge requiring either additional military resources, political solutions, or targeted intelligence operations against key leadership figures within individual cells.

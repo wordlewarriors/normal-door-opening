@@ -18,4 +18,4 @@ The shop specializes in alchemical supplies and crafted potions. Its name sugges
 
 ## Notable NPCs
 
-[[Health Minister Ivaran Sylhorn]] is a regular visitor to the Whispering Vials, suggesting either a personal interest in alchemy or a need for specific alchemical supplies related to his official duties. His frequent patronage raised questions during plague investigation activities, warranting closer examination of the shop's operations and inventory.
+[[Ivaran Sylhorn|Health Minister Ivaran Sylhorn]] is a regular visitor to the Whispering Vials, suggesting either a personal interest in alchemy or a need for specific alchemical supplies related to his official duties. His frequent patronage raised questions during plague investigation activities, warranting closer examination of the shop's operations and inventory.

@@ -1,5 +1,5 @@
 ---
-title: "The Cult of Mykrul"
+title: "Cult of Myrkul"
 session: ""
 date: ""
 arc: Neverwinter
@@ -10,7 +10,7 @@ tags: [faction, neverwinter]
 
 ## Overview
 
-The Cult of Mykrul is a profane religious organization devoted to [[Mykrul]], the deity of death and the dead. The cult has taken control of a former church, converting it into a site of dark worship. Their theology centers on the liberation of death itself—the belief that death should be "unbound" from its natural constraints. They venerate the concept of resurrection and the emergence of corpses from their graves, viewing death not as an end but as a transition to be manipulated and exploited for their purposes.
+The Cult of Myrkul is a profane religious organization devoted to [[Myrkul]], the deity of death and the dead. The cult has taken control of a former church, converting it into a site of dark worship. Their theology centers on the liberation of death itself—the belief that death should be "unbound" from its natural constraints. They venerate the concept of resurrection and the emergence of corpses from their graves, viewing death not as an end but as a transition to be manipulated and exploited for their purposes.
 
 ## Goals & Structure
 

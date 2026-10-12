@@ -10,13 +10,13 @@ tags: [villain, neverwinter]
 
 ## Overview
 
-Marka the Dead is a powerful undead servant of [[Kearansalee]], functioning as a crucial logistics coordinator for the goddess's forces throughout the realm. As commander of a substantial undead army, Marka maintains and operates an extensive transport network that enables the movement of evil forces, supplies, and resources across territories under [[Kearansalee]]'s influence. Despite holding significant military authority, Marka occupies a subordinate position within the greater hierarchy of [[Kearansalee]]'s operations.
+Marka the Dead is a powerful undead servant of [[Kiaransalee]], functioning as a crucial logistics coordinator for the goddess's forces throughout the realm. As commander of a substantial undead army, Marka maintains and operates an extensive transport network that enables the movement of evil forces, supplies, and resources across territories under [[Kiaransalee]]'s influence. Despite holding significant military authority, Marka occupies a subordinate position within the greater hierarchy of [[Kiaransalee]]'s operations.
 
 ## Threat & Motivations
 
-Marka poses a moderate direct threat in combat, leading formidable undead legions capable of overwhelming lesser forces. However, Marka's true strategic value lies in maintaining supply lines and troop movement capabilities rather than direct conquest. The transport network [[Marka]] controls is essential infrastructure for [[Kearansalee]]'s broader plans, though replaceable if necessary.
+Marka poses a moderate direct threat in combat, leading formidable undead legions capable of overwhelming lesser forces. However, Marka's true strategic value lies in maintaining supply lines and troop movement capabilities rather than direct conquest. The transport network [[Marka]] controls is essential infrastructure for [[Kiaransalee]]'s broader plans, though replaceable if necessary.
 
-[[Marka]]'s primary motivation appears to be expanding [[Kearansalee]]'s influence through coordinated uprisings. [[Marka]] is actively planning to incite widespread rebellion among populations, using the existing transport network to supply and reinforce insurgent forces. This expansion strategy represents [[Marka]]'s attempt to increase personal power and standing within [[Kearansalee]]'s hierarchy.
+[[Marka]]'s primary motivation appears to be expanding [[Kiaransalee]]'s influence through coordinated uprisings. [[Marka]] is actively planning to incite widespread rebellion among populations, using the existing transport network to supply and reinforce insurgent forces. This expansion strategy represents [[Marka]]'s attempt to increase personal power and standing within [[Kiaransalee]]'s hierarchy.
 
 ## Key Events
 
@@ -24,4 +24,4 @@ Marka poses a moderate direct threat in combat, leading formidable undead legion
 
 ## Connections
 
-[[Marka]] serves [[Kearansalee]] and likely answers to higher-ranking lieutenants in the goddess's command structure. The vast undead army under [[Marka]]'s command represents significant resources within [[Neverwinter]]'s region, making [[Marka]] an important node in evil forces' operational capacity.
+[[Marka]] serves [[Kiaransalee]] and likely answers to higher-ranking lieutenants in the goddess's command structure. The vast undead army under [[Marka]]'s command represents significant resources within [[Neverwinter]]'s region, making [[Marka]] an important node in evil forces' operational capacity.

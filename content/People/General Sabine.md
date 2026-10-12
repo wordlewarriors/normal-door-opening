@@ -9,7 +9,7 @@ tags:
 
 #Neverwinter 
 - The head of the [[White Sails]] mercenary company.
-- Arrived at [[Neverwinter]] just before [[Aarlon's]] attempt to murder [[Lord Neverember]]. The forces of the White Sails were the ones that were able to foil the attempt.
+- Arrived at [[Neverwinter]] just before [[Aarlon|Aarlon's]] attempt to murder [[Lord Neverember]]. The forces of the White Sails were the ones that were able to foil the attempt.
 -
 
 <!-- generated: 2026-05-29 -->
@@ -24,7 +24,7 @@ Sabine functions as a key military strategist for [[Neverwinter]]'s leadership. 
 
 ## Key Events
 
-During the campaign's engagement with the [[Sky Spawn]], General Sabine advocated for aggressive military action rather than cautious or defensive postures. She led a combat force of twenty soldiers against one of the Sky Spawn beasts, resulting in a successful kill despite the loss of 3-4 soldiers in the engagement. This action demonstrated both her combat effectiveness and her willingness to accept casualties in pursuit of military objectives—a stance that may contrast with more conservative approaches to the threat.
+During the campaign's engagement with the [[Starspawn of Nihal|Sky Spawn]], General Sabine advocated for aggressive military action rather than cautious or defensive postures. She led a combat force of twenty soldiers against one of the Sky Spawn beasts, resulting in a successful kill despite the loss of 3-4 soldiers in the engagement. This action demonstrated both her combat effectiveness and her willingness to accept casualties in pursuit of military objectives—a stance that may contrast with more conservative approaches to the threat.
 
 ## Relationships
 

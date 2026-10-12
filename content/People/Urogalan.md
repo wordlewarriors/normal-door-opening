@@ -15,7 +15,7 @@ Urogalan is the halfling god of death and the underworld, and the religion [[Mer
 
 Urogalan appears to represent an older order being challenged by newer powers. He manifests mainly through visions rather than direct interaction. During [[Merric]]'s soul trial in Session 26 he appeared as a figure of profound sorrow, a being whose once-great domain had been destroyed, and the trial ended with [[Merric]] being erased from Urogalan's ledger. [[Dawnbringer]] later told [[Jorund]] that [[Merric]] had been erased from the records of both the [[Raven Queen]] and Urogalan.
 
-[[Mykrul]] cultists met in [[Neverwinter]] reject the authority of Urogalan and the other traditional death gods. Urogalan stands for an older, more orthodox understanding of death worship, which the [[Mykrul]] faith defines itself against.
+[[Myrkul]] cultists met in [[Neverwinter]] reject the authority of Urogalan and the other traditional death gods. Urogalan stands for an older, more orthodox understanding of death worship, which the [[Myrkul]] faith defines itself against.
 
 ## Key Events
 
@@ -26,4 +26,4 @@ Urogalan appears to represent an older order being challenged by newer powers. H
 
 - [[Merric]]: the main link to Urogalan, through the soul trial and the ritual vision.
 - [[Raven Queen]]: keeps a comparable ledger, though Urogalan's authority appears eclipsed by newer powers.
-- [[Mykrul]]: cultists oppose Urogalan ideologically. The nature of the dispute is still to be explored.
+- [[Myrkul]]: cultists oppose Urogalan ideologically. The nature of the dispute is still to be explored.

@@ -15,7 +15,7 @@ High elf, middle aged, interested in water purification projects along with [[Ne
 
 ## Overview
 
-Ivaran Sylhorn is the publicly recognized Minister for Health on the [[Council of Neverwinter]], presenting himself as a proud pure-blood high elf. However, investigation has revealed his true identity: [[Bergst Tsarran]] of House T'sarran, a Drow noble orchestrating a catastrophic conspiracy from beneath layers of deception and magical concealment. His manor in the [[Protector's Enclave]] serves as the nexus for his operations, disguised as the residence of a respected council member while harboring dark magical artifacts, necromantic research, and evidence of worship devoted to [[Kyransalee]].
+Ivaran Sylhorn is the publicly recognized Minister for Health on the [[Council of Neverwinter]], presenting himself as a proud pure-blood high elf. However, investigation has revealed his true identity: [[Bergst Tsarran]] of House T'sarran, a Drow noble orchestrating a catastrophic conspiracy from beneath layers of deception and magical concealment. His manor in the [[Protector's Enclave]] serves as the nexus for his operations, disguised as the residence of a respected council member while harboring dark magical artifacts, necromantic research, and evidence of worship devoted to [[Kiaransalee]].
 
 ## Role in the Campaign
 
@@ -27,4 +27,4 @@ Sylhorn operates as a high-level antagonist manipulating [[Neverwinter]]'s insti
 
 ## Relationships
 
-Sylhorn maintains his public facade through the [[Council of Neverwinter]] while secretly coordinating with dark factions including the [[Grey Cloaks]] and [[Raven Queen Inquisition]]. His research connections to alchemists at [[Whispering Vials]] and the book merchant at the [[Shrouded Ledger]] facilitated his acquisition of restricted recipes for dangerous substances like 'philtre of vengeful whispers' and 'elixir of night'. The party suspects embezzlement of ministry funds to finance activities at the [[Gilded Locket]]. His true nature as [[Bergst Tsarran]] suggests connections to Drow nobility and devotion to the goddess [[Kyransalee]], indicating relationships with entities and forces far darker than his Neverwinter cover would suggest.
+Sylhorn maintains his public facade through the [[Council of Neverwinter]] while secretly coordinating with dark factions including the [[Grey Cloaks]] and [[Raven Queen Inquisition]]. His research connections to alchemists at [[Whispering Vials]] and the book merchant at the [[Shrouded Ledger]] facilitated his acquisition of restricted recipes for dangerous substances like 'philtre of vengeful whispers' and 'elixir of night'. The party suspects embezzlement of ministry funds to finance activities at the [[Gilded Locket]]. His true nature as [[Bergst Tsarran]] suggests connections to Drow nobility and devotion to the goddess [[Kiaransalee]], indicating relationships with entities and forces far darker than his Neverwinter cover would suggest.

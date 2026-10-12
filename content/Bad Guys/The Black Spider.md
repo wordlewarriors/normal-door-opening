@@ -10,7 +10,7 @@ tags: [villain, neverwinter]
 
 ## Overview
 
-The Black Spider is a mysterious criminal mastermind whose influence extends across multiple regions, including [[Phandalin]] and the surrounding areas. Their operations appear sophisticated and far-reaching, with resources sufficient to create elaborate false documentation and maintain extensive networks. The organization uses a distinctive seal as their mark, which has been identified as the most common forgery seal recovered from [[Ivaran]]'s study, suggesting widespread criminal operations involving document falsification and fraud.
+The Black Spider is a mysterious criminal mastermind whose influence extends across multiple regions, including [[Phandalin]] and the surrounding areas. Their operations appear sophisticated and far-reaching, with resources sufficient to create elaborate false documentation and maintain extensive networks. The organization uses a distinctive seal as their mark, which has been identified as the most common forgery seal recovered from [[Ivaran Sylhorn|Ivaran]]'s study, suggesting widespread criminal operations involving document falsification and fraud.
 
 ## Threat & Motivations
 
@@ -18,4 +18,4 @@ The Black Spider's willingness to fabricate family records and historical docume
 
 ## Connections
 
-The Black Spider's network includes connections to [[Ivaran]], whose study contained extensive evidence of their forgery operations. The fabricated family tree connected to [[Nesnar]] indicates potential entanglement with family structures in the region, suggesting either direct involvement with local nobility or calculated manipulation of established bloodlines. The presence of their seal in [[Phandalin]]-related documents indicates operational reach into that settlement and surrounding territory.
+The Black Spider's network includes connections to [[Ivaran Sylhorn|Ivaran]], whose study contained extensive evidence of their forgery operations. The fabricated family tree connected to [[Nesnar]] indicates potential entanglement with family structures in the region, suggesting either direct involvement with local nobility or calculated manipulation of established bloodlines. The presence of their seal in [[Phandalin]]-related documents indicates operational reach into that settlement and surrounding territory.

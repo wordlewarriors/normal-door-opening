@@ -14,7 +14,7 @@ The Corpse Market is a sprawling bazaar located in [[Neverwinter]], known as a g
 
 ## Description
 
-The market is characterized by its maze-like arrangement of stalls, shops, and temporary structures. Notable establishments include [[The Hanged Man's Noose]] and [[The Flayed Raven]], both serving as commercial anchors within the market. The [[Shadow Warden's]] tent operates somewhere within the market grounds, suggesting the presence of more clandestine operations alongside the open-air merchant stalls.
+The market is characterized by its maze-like arrangement of stalls, shops, and temporary structures. Notable establishments include [[The Hanged Man's Noose]] and [[The Flayed Raven]], both serving as commercial anchors within the market. The [[Shadow Warden|Shadow Warden's]] tent operates somewhere within the market grounds, suggesting the presence of more clandestine operations alongside the open-air merchant stalls.
 
 ## Key Events
 

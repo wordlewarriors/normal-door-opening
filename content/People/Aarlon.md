@@ -1,11 +1,11 @@
 ---
-aliases:
-- Aarlon Bladeshaper
-- Arlon
 title: Aarlon
 draft: false
 tags:
 - Neverwinter
+aliases:
+- Aarlon Bladeshaper
+- Arlon
 ---
 
 #Neverwinter 
@@ -21,7 +21,7 @@ Aarlon is a spy and investigator operating within [[Neverwinter]]'s power struct
 
 ## Role in the Campaign
 
-Aarlon serves as a valuable intelligence asset and occasional ally to the party. He was initially approached by the adventurers to help monitor [[My Chemical Reagents]] and has since become a recurring contact for information about political intrigue in [[Neverwinter]]. His position within the [[Halls of Justice]] allows him access to city resources and personnel, including the [[Greycloaks]] and [[Nashers]], which he has leveraged to assist in maintaining order during crises.
+Aarlon serves as a valuable intelligence asset and occasional ally to the party. He was initially approached by the adventurers to help monitor [[My Chemical Reagents]] and has since become a recurring contact for information about political intrigue in [[Neverwinter]]. His position within the [[Halls of Justice]] allows him access to city resources and personnel, including the [[Grey Cloaks|Greycloaks]] and [[Nashers]], which he has leveraged to assist in maintaining order during crises.
 
 ## Key Events
 
@@ -30,3 +30,21 @@ Aarlon was imprisoned following an assassination attempt but negotiated his rele
 ## Relationships
 
 [[Aarlon]] maintains a complex dynamic with [[Lord Neverember]], serving as both subordinate and trusted operative. He has developed a working relationship with the party, providing intelligence and tactical support. His geas ties him directly to [[Neverwinter]]'s interests, making him simultaneously constrained by and invested in the city's wellbeing.
+
+## Further notes (merged from the Aarlon page)
+
+### Overview
+
+Aarlon is an intelligence operative and security officer working within [[Castle Never]]'s administrative and defensive structures. He has demonstrated practical competence in information gathering and security matters, though his exact rank and formal title remain unclear. His work spans both bureaucratic duties at the [[Halls of Justice]] and active fieldwork across [[Neverwinter]].
+
+### Role in the Campaign
+
+Aarlon serves as a liaison between the party and [[Lord Neverember]]'s government apparatus. He provides intelligence on suspicious individuals and criminal activities, making him a valuable contact for investigations into corruption and criminal networks. As a security officer, he plays an active role in combating threats to the city, particularly remnants of dangerous cults. His pragmatic approach to problem-solving—including willingness to utilize unconventional resources—makes him effective despite being stretched thin across multiple assignments.
+
+### Key Events
+
+Aarlon first aided the party by providing [[Merric]] with surveillance information about [[Ivaran Sylhorn]]'s movement patterns and suspicious commercial connections, establishing his role as an intelligence asset. Later, his whereabouts became a matter of diplomatic sensitivity, with castle staff guarding information about his location and status. Following a period of estrangement, Aarlon reconciled with [[Lord Neverember]] and was tasked with identifying and apprehending contacts of the former Minister for Health who were involved in covering up unspecified crimes. He subsequently took on expanded security duties coordinating defenses against [[Cult]] remnants operating throughout [[Neverwinter]].
+
+### Relationships
+
+Aarlon works under [[Lord Neverember]]'s authority and has developed a professional relationship with the Lord Protector based on mutual respect. He maintains working relationships with the party and has proven willing to collaborate on investigations. His past tensions with [[Lord Neverember|Neverember]] appear resolved, suggesting capacity for reconciliation and renewed loyalty.

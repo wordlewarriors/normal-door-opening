@@ -26,4 +26,4 @@ The party has conducted stakeout operations at the location and recruited assist
 
 ## Notable Connections
 
-My Chemical Reagents operates in the import/export trade, though it notably appears in none of the [[Leonard family]]'s extensive trade logs or rumour files—an absence that itself suggests intentional obscurity or deliberate separation from known trading networks.
+My Chemical Reagents operates in the import/export trade, though it notably appears in none of the [[Leonard Family|Leonard family]]'s extensive trade logs or rumour files—an absence that itself suggests intentional obscurity or deliberate separation from known trading networks.

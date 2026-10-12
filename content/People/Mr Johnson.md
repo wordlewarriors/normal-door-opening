@@ -12,7 +12,7 @@ Mr Johnson is a mysterious warlock whose patron is the multiverse itself. He pos
 
 ## Role in the Campaign
 
-Mr Johnson serves as a crucial figure in the desperate struggle to contain the threat within [[the Sharn]]. Working in tandem with [[Grageon]], he uses his warlock abilities to repair and maintain the Sharn's barrier through ritualistic chanting. His role is instrumental but costly—both he and Grageon are slowly dying as they pour their life force into this containment effort, suggesting they are willing to sacrifice themselves for the greater good.
+Mr Johnson serves as a crucial figure in the desperate struggle to contain the threat within [[Sharn|the Sharn]]. Working in tandem with [[Grageon]], he uses his warlock abilities to repair and maintain the Sharn's barrier through ritualistic chanting. His role is instrumental but costly—both he and Grageon are slowly dying as they pour their life force into this containment effort, suggesting they are willing to sacrifice themselves for the greater good.
 
 ## Key Events
 

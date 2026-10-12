@@ -23,3 +23,13 @@ Alexander's Mystic Manuscripts refuses to sell evil spells as a general policy, 
 ## Warnings About Dangerous Texts
 
 The staff issue serious warnings about evil books bound in leather that are allegedly crafted by [[Vecna]]. According to the shop's knowledge, these cursed tomes possess the ability to sense through their bindings and potentially exert control over their readers. Such books represent an extreme danger and are actively avoided by the shop, which refuses to stock them under any circumstances.
+
+## Shop notes
+
+#Neverwinter 
+
+A bookshop in the Protector's Enclave.
+“We know books”
+
+- Proprietor Mr Alexander. He personally does all appraisals for the store.
+- Other workers in the shop include his grandson - George.

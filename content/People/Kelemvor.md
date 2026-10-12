@@ -14,8 +14,8 @@ tags: [npc, neverwinter]
 
 ## Role in the Campaign
 
-[[Kelemvor]] has been referenced primarily through the theological positions of [[Mykrul]] cultists encountered during the [[Neverwinter]] arc. The cultists view [[Kelemvor]] as a rival power whose influence over death is fundamentally limited compared to their deity's vision. This suggests [[Kelemvor]]'s doctrine and followers may represent an obstacle or counterforce to [[Mykrul]]'s plans to reshape the nature of death itself.
+[[Kelemvor]] has been referenced primarily through the theological positions of [[Myrkul]] cultists encountered during the [[Neverwinter]] arc. The cultists view [[Kelemvor]] as a rival power whose influence over death is fundamentally limited compared to their deity's vision. This suggests [[Kelemvor]]'s doctrine and followers may represent an obstacle or counterforce to [[Myrkul]]'s plans to reshape the nature of death itself.
 
 ## Theological Conflict
 
-The [[Mykrul]] cultists' dismissal of [[Kelemvor]]'s power indicates a significant ideological clash between these deities. Where [[Kelemvor]] watches the scales—suggesting balance, judgment, and natural order—[[Mykrul]] apparently seeks to liberate or transform death into something unbound and unrestrained. This conflict may have practical implications for the party, as [[Kelemvor]]'s followers or divine agents could potentially become unlikely allies against [[Mykrul]]'s schemes.
+The [[Myrkul]] cultists' dismissal of [[Kelemvor]]'s power indicates a significant ideological clash between these deities. Where [[Kelemvor]] watches the scales—suggesting balance, judgment, and natural order—[[Myrkul]] apparently seeks to liberate or transform death into something unbound and unrestrained. This conflict may have practical implications for the party, as [[Kelemvor]]'s followers or divine agents could potentially become unlikely allies against [[Myrkul]]'s schemes.

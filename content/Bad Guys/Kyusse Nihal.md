@@ -14,7 +14,7 @@ tags: [villain, neverwinter]
 
 ## Threat & Motivations
 
-[[Kyusse Nihal]]'s most documented ability is its capacity to facilitate the manifestation of [[star spawn]] in its vicinity. The entity essentially lowers the barriers between realities, making it easier for these aberrant creatures to enter the material plane. This constitutes a significant threat to the stability of [[Neverwinter]] and potentially the wider region.
+[[Kyusse Nihal]]'s most documented ability is its capacity to facilitate the manifestation of [[Starspawn of Nihal|star spawn]] in its vicinity. The entity essentially lowers the barriers between realities, making it easier for these aberrant creatures to enter the material plane. This constitutes a significant threat to the stability of [[Neverwinter]] and potentially the wider region.
 
 The party suspects [[Kyusse Nihal]] may be actively undermining the gods of death and their natural order. If true, this suggests the entity operates against divine authority and the fundamental balance of life, death, and the afterlife. This motivation connects to apparent cult activity within [[Neverwinter]], implying organized worship or servitude to the aberrant being.
 

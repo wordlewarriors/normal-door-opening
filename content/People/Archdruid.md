@@ -18,7 +18,7 @@ The Archdruid serves as a potential ally in the party's [[Plague Investigation]]
 
 ## Key Events
 
-During the investigation into the plague, the Archdruid made clear his conviction that evil worshippers of [[Kyusse]] and [[Zugtamoid]] operating within [[Neverwinter]] are responsible for the outbreak. He identified a corrupted fungus called [[aromycos]] as central to the plague's origin and spread. He possesses [[agate]] and indicated he may be capable of helping the party obtain [[diamonds]] needed for resurrection magic, suggesting his grove contains valuable resources or connections to acquire them.
+During the investigation into the plague, the Archdruid made clear his conviction that evil worshippers of [[Kyusse]] and [[Zugtamoid]] operating within [[Neverwinter]] are responsible for the outbreak. He identified a corrupted fungus called [[Araumycos]] as central to the plague's origin and spread. He possesses [[agate]] and indicated he may be capable of helping the party obtain [[diamonds]] needed for resurrection magic, suggesting his grove contains valuable resources or connections to acquire them.
 
 ## Relationships
 

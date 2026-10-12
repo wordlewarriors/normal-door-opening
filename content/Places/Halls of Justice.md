@@ -18,7 +18,7 @@ The Halls of Justice features a prominent throne room adorned with detailed maps
 
 ## Key Events
 
-During the plague investigation crisis, the Halls of Justice served as a mobilization point where armed task forces—both armored and cloaked—were summoned at sunset in response to the city's emergency. The well-practiced nature of this drill suggested established protocols for crisis management. [[The Tarrith]] was observed conducting reconnaissance from a rooftop opposite the building, indicating enemy interest in governmental operations. A [[Drow]] spy was previously spotted on the structure's rooftop but disappeared under unknown circumstances. During a later session, the area appeared strangely depopulated with visible smoke emanating from deeper within the [[Protector's Enclave]], suggesting internal disturbance or conflict.
+During the plague investigation crisis, the Halls of Justice served as a mobilization point where armed task forces—both armored and cloaked—were summoned at sunset in response to the city's emergency. The well-practiced nature of this drill suggested established protocols for crisis management. [[Tarrith|The Tarrith]] was observed conducting reconnaissance from a rooftop opposite the building, indicating enemy interest in governmental operations. A [[Drow]] spy was previously spotted on the structure's rooftop but disappeared under unknown circumstances. During a later session, the area appeared strangely depopulated with visible smoke emanating from deeper within the [[Protector's Enclave]], suggesting internal disturbance or conflict.
 
 ## Notable NPCs
 

@@ -10,15 +10,15 @@ tags: [npc, plague-investigation]
 
 ## Overview
 
-Lyral Faelrune is an individual with a suspicious connection to [[the Whispering Vials]], a location known for its restricted alchemical materials and recipes. The name itself has an authentically elven quality, though [[Ultrin]] has raised doubts about whether "Lyral Faelrune" is a genuine identity or an alias used to obscure the person's true intentions.
+Lyral Faelrune is an individual with a suspicious connection to [[Whispering Vials|the Whispering Vials]], a location known for its restricted alchemical materials and recipes. The name itself has an authentically elven quality, though [[Ultrin]] has raised doubts about whether "Lyral Faelrune" is a genuine identity or an alias used to obscure the person's true intentions.
 
 ## Role in the Campaign
 
-Lyral appears in the ongoing plague investigation as a person of interest due to their access to restricted alchemical knowledge. They previously borrowed restricted recipes from [[the Whispering Vials]], indicating either legitimate scholarly pursuits or potentially more nefarious research. The fact that records of these transactions were subsequently erased suggests deliberate obfuscation and raises serious questions about what Lyral intended to do with such dangerous knowledge.
+Lyral appears in the ongoing plague investigation as a person of interest due to their access to restricted alchemical knowledge. They previously borrowed restricted recipes from [[Whispering Vials|the Whispering Vials]], indicating either legitimate scholarly pursuits or potentially more nefarious research. The fact that records of these transactions were subsequently erased suggests deliberate obfuscation and raises serious questions about what Lyral intended to do with such dangerous knowledge.
 
 ## Key Events
 
-- Borrowed restricted recipes from [[the Whispering Vials]] at an unspecified prior time
+- Borrowed restricted recipes from [[Whispering Vials|the Whispering Vials]] at an unspecified prior time
 - Records of these transactions were erased, likely intentionally
 - Flagged as a person of interest during the plague investigation
 

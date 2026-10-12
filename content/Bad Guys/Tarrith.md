@@ -22,4 +22,4 @@ tags: [villain, plague-investigation]
 
 ## Connections
 
-[[Tarrith]] has knowledge of drow religious affiliations, specifically recognizing members of [[House T'sarran]] as worshippers of [[Kyransalee]]. His employment through sealed dead drops suggests connections to high-ranking officials or those capable of forging official documents. His bond with his identical twin brother [[Nym]] represents a significant leverage point.
+[[Tarrith]] has knowledge of drow religious affiliations, specifically recognizing members of [[House T'sarran]] as worshippers of [[Kiaransalee]]. His employment through sealed dead drops suggests connections to high-ranking officials or those capable of forging official documents. His bond with his identical twin brother [[Nym]] represents a significant leverage point.

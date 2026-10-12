@@ -10,7 +10,7 @@ tags: [villain, neverwinter]
 
 ## Overview
 
-The Worm Star is a colossal, otherworldly entity originating from the [[Far Realm]]. It manifests as a massive celestial body capable of spawning enormous worms and wielding considerable reality-warping power. The entity's true nature remains incomprehensibly alien—its intelligence, if it can be called that, operates on a scale that mortal minds struggle to process. Its emergence posed an existential threat to the material plane.
+The Worm Star is a colossal, otherworldly entity originating from the [[The Far Realm|Far Realm]]. It manifests as a massive celestial body capable of spawning enormous worms and wielding considerable reality-warping power. The entity's true nature remains incomprehensibly alien—its intelligence, if it can be called that, operates on a scale that mortal minds struggle to process. Its emergence posed an existential threat to the material plane.
 
 ## Threat & Motivations
 
