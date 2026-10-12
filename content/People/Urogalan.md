@@ -3,19 +3,27 @@ title: "Urogalan"
 session: ""
 date: ""
 arc: Neverwinter
-tags: [npc, neverwinter]
+tags: [npc, neverwinter, plague-investigation]
+aliases: [Urlogan, Urlogalan]
 ---
-
-<!-- generated: 2026-05-29 -->
 
 ## Overview
 
-Urogalan is a deity associated with death and the underworld. The name carries weight and reverence among those who understand the deeper mysteries of mortality and the boundaries between life and death.
+Urogalan is the halfling god of death and the underworld, and the religion [[Merric]] nominally follows but has his issues with. He is an ancient being tied to the "old world", bound in chains, and keeps a ledger of souls much like that of the [[Raven Queen]]. His power and authority have been diminished, and his realm is described as cracked, defiled and functionally lost. He is also described as a tender of bonds, the aspect of death concerned with the connections that persist after dying.
 
 ## Role in the Campaign
 
-During a ritual vision in Session 30, [[Merric]] experienced an unusual closeness to Urogalan that felt profoundly unnatural. This connection troubled [[Merric]], as such intimate communion with this death deity is traditionally reserved only for those who have already passed beyond the veil of mortality. The wrongness of the sensation suggests [[Merric]] may have brushed against something taboo or dangerous—a living person touching divine death in a way that violates the natural order.
+Urogalan appears to represent an older order being challenged by newer powers. He manifests mainly through visions rather than direct interaction. During [[Merric]]'s soul trial in Session 26 he appeared as a figure of profound sorrow, a being whose once-great domain had been destroyed, and the trial ended with [[Merric]] being erased from Urogalan's ledger. [[Dawnbringer]] later told [[Jorund]] that [[Merric]] had been erased from the records of both the [[Raven Queen]] and Urogalan.
+
+[[Mykrul]] cultists met in [[Neverwinter]] reject the authority of Urogalan and the other traditional death gods. Urogalan stands for an older, more orthodox understanding of death worship, which the [[Mykrul]] faith defines itself against.
 
 ## Key Events
 
-In Session 30, during a ritual conducted in the [[Neverwinter]] arc, [[Merric]] felt drawn closer to Urogalan than should be possible for a living person. This moment of unwanted communion raised questions about what forces might be at work, whether [[Merric]] was being marked or claimed by death itself, or if something else was manipulating the connection for its own purposes.
+- **Session 26, soul trial:** Urogalan appears to [[Merric]] as a powerless, sorrowing figure, and [[Merric]] is removed from his ledger.
+- **Session 30, ritual vision:** [[Merric]] feels unnaturally close to Urogalan, a closeness that should only be felt by the dead. The wrongness of it raises the question of whether [[Merric]] is being marked or claimed by death, or whether something else is manipulating the connection.
+
+## Relationships
+
+- [[Merric]]: the main link to Urogalan, through the soul trial and the ritual vision.
+- [[Raven Queen]]: keeps a comparable ledger, though Urogalan's authority appears eclipsed by newer powers.
+- [[Mykrul]]: cultists oppose Urogalan ideologically. The nature of the dispute is still to be explored.

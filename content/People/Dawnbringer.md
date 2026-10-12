@@ -18,7 +18,7 @@ tags: [npc, neverwinter]
 
 ## Key Events
 
-During [[Jorund]]'s soul trial, [[Dawnbringer]] communicated with him about the tragic erasure of [[Merric]] from the records of both the [[Raven Queen]] and [[Urlogan]], expressing sadness about such a lonely fate for a soul. When [[Jorund]] later found himself in a profaned church, [[Dawnbringer]] struggled to manifest, fearing both the heartbeat emanating from the altar and the implications of [[Jorund]]'s potential actions. After [[Jorund]]'s encounter with the [[Raven Queen]], [[Dawnbringer]] refused to manifest entirely, suggesting profound disagreement with [[Jorund]]'s path or choices.
+During [[Jorund]]'s soul trial, [[Dawnbringer]] communicated with him about the tragic erasure of [[Merric]] from the records of both the [[Raven Queen]] and [[Urogalan]], expressing sadness about such a lonely fate for a soul. When [[Jorund]] later found himself in a profaned church, [[Dawnbringer]] struggled to manifest, fearing both the heartbeat emanating from the altar and the implications of [[Jorund]]'s potential actions. After [[Jorund]]'s encounter with the [[Raven Queen]], [[Dawnbringer]] refused to manifest entirely, suggesting profound disagreement with [[Jorund]]'s path or choices.
 
 ## Relationships
 
